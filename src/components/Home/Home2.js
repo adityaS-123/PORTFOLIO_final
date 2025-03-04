@@ -19,36 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              My name is Aditya Sharma and I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              My name is Aditya Sharma, and I have a deep passion for programming. Over time, I have gained proficiency in languages such as Python, C++, JavaScript, and Java.
               <br />
-              <br />I am fluent in classics like
+              <br />
               <i>
-                <b className="purple"> Python, C++, Javascript and Java. </b>
+                <b className="purple"> </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My areas of interest include cloud computing, full-stack development, and artificial intelligence. I am particularly enthusiastic about building innovative solutions in these domains.
               <i>
-                <b className="purple">Cloud computing </b> and
-                also in areas related to{" "}
+                <b className="purple"></b> and
+                
                 <b className="purple">
-                  Fullstack and AI.
+                
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Additionally, I enjoy developing products using Node.js and modern JavaScript libraries and frameworks such as React.js and Next.js. I am always eager to apply my skills and explore new technologies to create impactful solutions.
+              with <b className="purple"></b> and
               <i>
                 <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
+                 
+              
                 </b>
               </i>
-              &nbsp; like
+              
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"></b>
               </i>
             </p>
           </Col>
