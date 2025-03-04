@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              My name is Aditya Sharma, and I have a deep passion for programming. Over time, I have gained proficiency in languages such as Python, C++, JavaScript, and Java.
+             My name is Aditya Sharma, and I am deeply passionate about programming and technology. Over the years, I have developed strong proficiency in multiple programming languages, including Python, C++, JavaScript, and Java.
               <br />
               <br />
               <i>
@@ -27,7 +27,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              My areas of interest include cloud computing, full-stack development, and artificial intelligence. I am particularly enthusiastic about building innovative solutions in these domains.
+              My primary areas of interest lie in cloud computing, full-stack development, and artificial intelligence. I am particularly enthusiastic about leveraging these domains to build innovative and scalable solutions that address real-world challenges.
               <i>
                 <b className="purple"></b> and
                 
@@ -37,8 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Additionally, I enjoy developing products using Node.js and modern JavaScript libraries and frameworks such as React.js and Next.js. I am always eager to apply my skills and explore new technologies to create impactful solutions.
-              with <b className="purple"></b> and
+              Additionally, I have extensive experience in developing robust and efficient applications using Node.js, along with modern JavaScript libraries and frameworks such as React.js and Next.js. I am always eager to expand my knowledge, explore emerging technologies, and apply my skills to create impactful and meaningful solutions.
               <i>
                 <b className="purple">
                  
