@@ -19,35 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             My name is Aditya Sharma, and I am deeply passionate about programming and technology. Over the years, I have developed strong proficiency in multiple programming languages, including Python, C++, JavaScript, and Java.
-              <br />
-              <br />
-              <i>
-                <b className="purple"> </b>
-              </i>
-              <br />
-              <br />
-              My primary areas of interest lie in cloud computing, full-stack development, and artificial intelligence. I am particularly enthusiastic about leveraging these domains to build innovative and scalable solutions that address real-world challenges.
-              <i>
-                <b className="purple"></b> and
-                
-                <b className="purple">
-                
-                </b>
-              </i>
-              <br />
-              <br />
-              Additionally, I have extensive experience in developing robust and efficient applications using Node.js, along with modern JavaScript libraries and frameworks such as React.js and Next.js. I am always eager to expand my knowledge, explore emerging technologies, and apply my skills to create impactful and meaningful solutions.
-              <i>
-                <b className="purple">
-                 
+             My name is <b className="purple">Aditya Sharma</b>, and I am deeply passionate about <b className="purple">programming</b> and <b className="purple">technology</b>. Over the years, I have developed strong proficiency in multiple programming languages, including <b className="purple">Python</b>, <b className="purple">C++</b>, <b className="purple">JavaScript</b>, and <b className="purple">Java</b>.
               
-                </b>
-              </i>
+              My primary areas of interest lie in <b className="purple">cloud computing</b>, <b className="purple">full-stack development</b>, and <b className="purple">artificial intelligence</b>. I am particularly enthusiastic about leveraging these domains to build <b className="purple">innovative</b> and <b className="purple">scalable</b> solutions that address real-world challenges.
               
-              <i>
-                <b className="purple"></b>
-              </i>
+              Additionally, I have extensive experience in developing <b className="purple">robust</b> and <b className="purple">efficient</b> applications using <b className="purple">Node.js</b>, along with modern JavaScript libraries and frameworks such as <b className="purple">React.js</b> and <b className="purple">Next.js</b>. I am always eager to expand my knowledge, explore <b className="purple">emerging technologies</b>, and apply my skills to create <b className="purple">impactful</b> and <b className="purple">meaningful</b> solutions.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
